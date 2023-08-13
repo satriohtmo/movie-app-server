@@ -10,6 +10,12 @@ TECH STACK :
 - Bcrypt
 - Postgresql
 - Dotenv
+- axios
+
+3rd Party API
+
+- The movie db
+  login on https://www.themoviedb.org/ to get MOVIE_KEY
 
 To run this server
 
